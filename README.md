@@ -4,7 +4,7 @@ WebDAV is a protocol that allows us to open a web server directory locally, so t
 ### Usage ✨
 <p align="center">
   <a name="top" href="#octocat-hi-there-thanks-for-visiting-">
-     <img alt="SyborgSyndicate/WebdavExplo" height="60%" width="100%" src="Screenshot_2021-05-08-13-36-58-85.jpg"/>
+     <img alt="SyborgSyndicate/WebdavExplo" height="60%" width="100%" src="Screenshot_2021-05-10-12-04-43-07.jpg"/>
   </a>
 </p>
 
