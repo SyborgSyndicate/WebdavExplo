@@ -24,7 +24,7 @@ WebDAV is a protocol that allows us to open a web server directory locally, so t
   ```
 
 - ```bash
-  $ apt install python2 git -y
+  $ apt install python3 git -y
   ```
 - ```bash
   $ apt install pip 
